@@ -16,5 +16,5 @@ module.exports = {
       2: "2px",
     },
   },
-  plugins: [require("tailwindcss-typography-style")],
+  plugins: [require("tailwindcss-style-animate")],
 };
